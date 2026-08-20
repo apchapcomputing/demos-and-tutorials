@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tickets</title>
+</head>
+<body>
+    View a ticket
+    {% for ticket in tickets %}
+        The first ticket was submitted by "{{ ticket.submitter }}" and has the body:
+        <p>
+            {{ ticket.body }}
+        </p>
+    {% endfor %}
+</body>
+</html>

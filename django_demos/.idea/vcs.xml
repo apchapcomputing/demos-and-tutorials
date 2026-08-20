@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/car/django-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carved_rock/django-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django_getting_started" vcs="Git" />
+  </component>
+</project>
